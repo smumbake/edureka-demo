@@ -1,1 +1,2 @@
 This is the first file in the git training session.
+THis is a modification.
